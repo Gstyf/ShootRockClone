@@ -1,8 +1,0 @@
-﻿  level.cpp
-D:\Projects\ShootRockClone\Source\level.cpp(183,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\Projects\ShootRockClone\Source\level.cpp(193,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\Projects\ShootRockClone\Source\level.cpp(205,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\Projects\ShootRockClone\Source\level.cpp(239,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Projects\ShootRockClone\Source\level.cpp(317,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\ShootRockClone\Source\level.cpp(317,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  raylib_template.vcxproj -> D:\Projects\ShootRockClone\Build\Debug\raylib_template.exe
